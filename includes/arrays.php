@@ -19,4 +19,26 @@
       )
   );
 
+//Team Members
+$teamMembers = array(
+  array(
+    name => "Frankie III",
+    position => "Owner",
+    bio => "Frankie is the owner and passionate about food!",
+    img => "frankie"
+  ),
+  array(
+    name => "Francis",
+    position => "General Manager",
+    bio => "Francis is the owner and passionate about food!",
+    img => "francis"
+  ),
+  array(
+    name => "Carlos",
+    position => "Head Chef",
+    bio => "Carlos is the owner and passionate about food!",
+    img => "carlos"
+  ),
+);
+
  ?>
