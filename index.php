@@ -1,5 +1,5 @@
 <?php
-define("TITLE", "Franklins Fine Dining");
+  define("TITLE", "Franklins Fine Dining");
   include('includes/header.php');
 ?>
 
@@ -14,7 +14,6 @@ define("TITLE", "Franklins Fine Dining");
     </p>
   <hr>
 </div>
-
 
 <?php
   include('includes/footer.php');
